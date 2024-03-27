@@ -1,5 +1,7 @@
 # Calculadora-Salarios
 
+![img](imgs/tela-Calculadora.png)
+
 ## Descrição 
 
 Nessa atividade, criamos uma calculadora que auxilia o pagamento dos salários de uma determinada empresa que utiliza o método de "meritocracia" para pagar seus funcionários. Os principais requisitos dessa atividade foram:
@@ -19,6 +21,8 @@ Nessa atividade, criamos uma calculadora que auxilia o pagamento dos salários d
 - Solicita o nome do vendedor, as metas semanal e mensal, e as vendas semanais.
 - Utiliza laços de repetição `for()` para calcular as metas e excedentes semanais e mensais.
 - Calcula o salário final do vendedor com base nas informações fornecidas.
+
+![gif](imgs/vid-Calcu.gif)
 
 ## 🛠️Tecnologias Utilizadas 
 
